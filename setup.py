@@ -3,7 +3,7 @@
 from setuptools import setup, find_packages
 setup(
     name='sitecustomize',
-    version='1.0.0',
+    version='1.0.1',
     url='https://github.com/chrismeyersfsu/sitecustomize',
     author='Chris Meyers',
     author_email='cmeyers@ansible.com',
